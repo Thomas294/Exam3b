@@ -13,6 +13,10 @@
         Welcome to MSCI:3300<br />
         Software design and Dev<br />
         <br />
+        <asp:Label ID="Label1" runat="server" Text="Couldnt get the drop down to work :( had to change language in broswer to make it work"></asp:Label>
+        <br />
+        <br />
+        <br />
         <asp:Label ID="lbpleaseChoseLanguage" runat="server" Text="Please chose langauge" meta:resourceKey="lbpleaseChoseLanguage" ></asp:Label>
         <br />
         <asp:DropDownList ID="DropDownList1" runat="server" AutoPostBack="True">
